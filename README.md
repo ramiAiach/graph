@@ -1,6 +1,6 @@
 # Graph
 
-Projet académique en Java portant sur la modélisation et les algorithmes de graphes**.
+Projet académique en Java portant sur la modélisation et les algorithmes de graphes.
 
 Ce projet a été réalisé en binôme, dans le cadre d’un travail universitaire.
 
